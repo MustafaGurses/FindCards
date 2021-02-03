@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bul Beni", "Bul Beni.csproj", "{8C1DA7F2-333A-46CC-AD68-3E5F510956E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameObject", "..\GameObject\GameObject.csproj", "{C9CF1D6C-3FBE-471C-8754-8E5D74369B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1DA7F2-333A-46CC-AD68-3E5F510956E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1DA7F2-333A-46CC-AD68-3E5F510956E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1DA7F2-333A-46CC-AD68-3E5F510956E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1DA7F2-333A-46CC-AD68-3E5F510956E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CF1D6C-3FBE-471C-8754-8E5D74369B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CF1D6C-3FBE-471C-8754-8E5D74369B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CF1D6C-3FBE-471C-8754-8E5D74369B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CF1D6C-3FBE-471C-8754-8E5D74369B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B051E9B-010C-4398-9A42-549D8E9DBB93}
+	EndGlobalSection
+EndGlobal
