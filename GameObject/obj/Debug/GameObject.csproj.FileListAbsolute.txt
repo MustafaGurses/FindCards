@@ -1,0 +1,6 @@
+C:\Users\VAIO\source\repos\GameObject\bin\Debug\GameObject.dll
+C:\Users\VAIO\source\repos\GameObject\bin\Debug\GameObject.pdb
+C:\Users\VAIO\source\repos\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\GameObject\obj\Debug\GameObject.dll
+C:\Users\VAIO\source\repos\GameObject\obj\Debug\GameObject.pdb
+C:\Users\VAIO\source\repos\GameObject\obj\Debug\GameObject.csprojAssemblyReference.cache
